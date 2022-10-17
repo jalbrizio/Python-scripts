@@ -1,0 +1,6 @@
+firstname = raw_input("Enter firstname:")
+print("Firstname is: " + firstname)
+lastname = raw_input("Enter lastname:")
+print("Lastname is: " + lastname)
+print("Hello " + firstname '  ' + lastname)
+# ", welcome to IT4079!" % (firstname, lastname))
